@@ -34,6 +34,8 @@ Choose the appropriate option for your hardware and follow the respective setup 
 3. Upload the provided sketch to your ESP32 board.
 4. Open the Serial Monitor at a baud rate of 9600 to view the sensor readings and calculated values.
 
+![Circuit Diagram](https://github.com/mikewharton/touch-sensor/blob/main/circuit_diagram.png)
+
 ## Code Explanation
 
 The provided sketches follow similar steps and logic:
