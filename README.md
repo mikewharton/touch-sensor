@@ -91,4 +91,4 @@ You can adjust the following parameters in the sketches to customize behavior:
 
 ## Related Projects
 
-See the [haptics-demo](https://github.com/DMFDML/haptics-demo) repository for a Unity project that integrates the ESP32 with Bluetooth for interactive control of a haptic device.
+See the [haptics-demo](https://github.com/mikewharton/haptics-demo) repository for a Unity project that integrates the ESP32 with Bluetooth for interactive control of a haptic device.
